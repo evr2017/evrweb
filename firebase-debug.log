@@ -1,0 +1,28 @@
+[debug] [2017-07-01T17:07:33.340Z] ----------------------------------------------------------------------
+[debug] [2017-07-01T17:07:33.343Z] Command:      /usr/local/bin/node /usr/local/bin/firebase serve
+[debug] [2017-07-01T17:07:33.343Z] CLI Version:  3.9.1
+[debug] [2017-07-01T17:07:33.343Z] Platform:     darwin
+[debug] [2017-07-01T17:07:33.343Z] Node Version: v6.10.2
+[debug] [2017-07-01T17:07:33.344Z] Time:         Sat Jul 01 2017 21:07:33 GMT+0400 (+04)
+[debug] [2017-07-01T17:07:33.344Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2017-07-01T17:07:33.355Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2017-07-01T17:07:33.356Z] > authorizing via signed-in user
+[debug] [2017-07-01T17:07:33.358Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/evrapp-161b7  
+ Sat Jul 01 2017 21:07:33 GMT+0400 (+04)
+[debug] [2017-07-01T17:07:35.660Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-01T17:07:35.661Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/evrapp-161b7/tokens  
+ Sat Jul 01 2017 21:07:35 GMT+0400 (+04)
+[debug] [2017-07-01T17:07:37.597Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Serving from '/Users/karenmatias/Documents/Innov_Workspace/evrportal'...
+[info] 
+[debug] [2017-07-01T17:07:37.600Z] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/evrapp-161b7  
+ Sat Jul 01 2017 21:07:37 GMT+0400 (+04)
+[debug] [2017-07-01T17:07:41.406Z] <<< HTTP RESPONSE 200
+[debug] [2017-07-01T17:07:41.407Z] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/1086731895812/clients/_:getWebAppConfig  
+ Sat Jul 01 2017 21:07:41 GMT+0400 (+04)
+[debug] [2017-07-01T17:07:43.420Z] <<< HTTP RESPONSE 200
+[info] i  hosting: Serving hosting files from: public
+[info] ✔  hosting: Local server: http://localhost:5000
+
